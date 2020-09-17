@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm learning about programming!
+- 🌱 I’m currently learning front-end
 
-I like to solve algorithm problems.
+- ⚡ I like to solve algorithm problems.
 
-I want to be a good developer!
+
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yunsang08)](https://solved.ac/yunsang08)
 
