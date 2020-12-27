@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning back-end
 
 - ⚡ I like to solve algorithm problems.
 
@@ -11,6 +11,8 @@
 ![yoonsangkwak's github stats](https://github-readme-stats.vercel.app/api?username=yoonsangkwak&show_icons=true)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoonsang-it.tistory.com/)](https://yoonsang-it.tistory.com/)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://yoonsang.site/)](http://yoonsang.site.com/)
 
 
 
