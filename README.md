@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning back-end
 
-- ⚡ I like to solve algorithm problems.
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonsangkwak&count_bg=%233D7FC8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yunsang08)](https://solved.ac/yunsang08)
+[![yoonsangkwak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yoonsangkwak)](https://github.com/anuraghazra/github-readme-stats)
 
 ![yoonsangkwak's github stats](https://github-readme-stats.vercel.app/api?username=yoonsangkwak&show_icons=true)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yunsang08)](https://solved.ac/yunsang08)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoonsang-it.tistory.com/)](https://yoonsang-it.tistory.com/)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://yoonsang.site/)](http://yoonsang.site.com/)
+
+
 
 
 
