@@ -9,8 +9,6 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoonsang-it.tistory.com/)](https://yoonsang-it.tistory.com/)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://yoonsang.site/)](http://yoonsang.site/)
-
 
 
 
